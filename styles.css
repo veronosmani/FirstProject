@@ -1,10 +1,20 @@
 #maintext{
    text-align:center;
 }
-.topright {
+#topright1 {
      position: absolute;
      top: 0;
-     right: 0;
+     right: 25;
+}
+#topright2 {
+   position: absolute;
+   top: 0;
+   left : 1;
+}
+#topright3 {
+   position: absolute;
+   top: 0;
+   right: 0;
 }
 head{
    /* MacBook Air - 1 */
