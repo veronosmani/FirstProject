@@ -7,7 +7,14 @@
    left:223px;
    font-size: 128px;
    font-style: Adamima;
+   color: white;
 }
+body{
+   background-image: url(images/background1.png);
+   background-size: 1280px 832px;
+   background-color: black;
+   background-repeat: no-repeat;
+      }
 #topright1 {
       width: 141px;
       height: 50px;
@@ -25,7 +32,7 @@
    right : 313px;
    border-radius: 25px;
    border-color: white;
-   background-color: #000000;
+   background-color: #0000004D;
    color:white;
 
 }
@@ -37,12 +44,18 @@
    right: 170px;
    border-radius: 25px;
    border-color: white;
-   background-color: #000000;
+   background-color: #0000004D;
    color:white;
 }
-.background{
-   background-image: url(background1.png);
-   background-repeat: no-repeat;
-   background-size: cover;
-   background-position: center;
+#text1{
+position:absolute;
+width: 533px;
+height: 38px;
+top: 882px;
+left: 131px;
+font-family: Blinker;
+font-size: 32px;
+font-weight: 400;
+line-height: 38.4px;
+color: white;
 }
