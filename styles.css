@@ -2,7 +2,7 @@
    position: absolute;
    width: 835px;
    height: 409px;
-   top: 212px;
+   top: 70px;
    left:223px;
    font-size: 128px;
    font-style: Adamima;
@@ -54,7 +54,7 @@ body{
 position:absolute;
 width: 536px;
 height: 38px;
-top: 882px;
+top: 872px;
 left: 131px;
 font-family: Blinker;
 font-size: 32px;
@@ -66,7 +66,7 @@ color: white;
    position: absolute;
    width: 9px;
    height: 29px;
-   top: 895px;
+   top: 886px;
    left: 96px;
    font-family: Blinker;
    font-size: 24px;
@@ -96,6 +96,7 @@ color: white;
    color: white;
 }
  #text2{
+   position: absolute;
 width: 147px;
 height: 29px;
 top: 85px;
@@ -105,6 +106,154 @@ font-size: 24px;
 font-weight: 400;
 line-height: 28.8px;
 text-align: left;
+color: black;
+}
+#text3{
+   position: absolute;
+   font-family: Blinker;
+   font-size: 15px;
+   font-weight: 400;
+   line-height: 21.6px;
+   text-align: left;
+   width: 301px;
+   height: 88px;
+   top: 119px;
+   left: 30px;
+}
+#learnmore1{
+   position: absolute;
+   width: Fixed (120px)px;
+   height: Fixed (35px)px;
+   top: 248px;
+   left: 30px;
+   padding: 13px 20px 13px 20px;
+   gap: 10px;
+   border-radius: 50px;
+   background-color: black;
+   color: white;
+}
+.box1{
+   position: absolute;
+   width: 360px;
+   height: 313px;
+   top: 951px;
+   left: 80px;
+   background-color: white;
+   background-image: url(images/house.png);
+   background-size: 45px 45px;
+   background-repeat: no-repeat;
+   background-position: 45px 45px;
+}
+#text4{
+   position: absolute;
+   width: 144px;
+   height: 29px;
+   top: 85px;
+   left: 30px;
+   gap: 0px;
+   opacity: 0px;
+   font-family: Blinker;
+   font-size: 24px;
+   font-weight: 400;
+   line-height: 28.8px;
+   text-align: left;
+   color: white;
+}
+#text5{
+   position: absolute;
+   width: 293px;
+   height: 110px;
+   top: 119px;
+   left: 30px;
+   gap: 0px;
+   opacity: 0px;
+   font-family: Blinker;
+   font-size: 15px;
+   font-weight: 400;
+   line-height: 21.6px;
+   text-align: left;
+   color: white;
+}
+#learnmore2{
+   position: absolute;
+   width: Fixed (120px)px;
+   height: Fixed (35px)px;
+   top: 248px;
+   left: 30px;
+   padding: 13px 20px 13px 20px;
+   gap: 10px;
+   border-radius: 50px;
+   opacity: 0px;
+}
+.box2{
+   position: absolute;
+   width: 360px;
+   height: 313px;
+   top: 951px;
+   left: 459px;
+   gap: 0px;
+   border-radius: 25px 0px 0px 0px;
+   opacity: 0px;
+   background-color: black;
+   background-image: url(images/money.png);
+   background-position: 30px 30px;
+   background-size: 45px 45px;
+   background-repeat: no-repeat;
+}
+#text6{  
+   position: absolute;
+   width: 160px;
+height: 29px;
+top: 85px;
+left: 30px;
+gap: 0px;
+opacity: 0px;
+font-family: Blinker;
+font-size: 24px;
+font-weight: 400;
+line-height: 28.8px;
+text-align: left;
 color: white;
 }
-
+#text7{  
+   position: absolute;
+   width: 254px;
+   height: 88px;
+   top: 119px;
+   left: 30px;
+   gap: 0px;
+   opacity: 0px;
+   font-family: Blinker;
+   font-size: 15px;
+   font-weight: 400;
+   line-height: 21.6px;
+   text-align: left;
+   color: white;
+}
+#learnmore3{  
+   position: absolute; 
+   width: Fixed (120px)px;
+   height: Fixed (35px)px;
+   top: 248px;
+   left: 30px;
+   padding: 13px 20px 13px 20px;
+   gap: 10px;
+   border-radius: 50px;
+   opacity: 0px;
+   color:black;
+   background-color: white;
+}
+.box3{   
+   position: absolute;
+   width: 360px;
+   height: 313px;
+   top: 951px;
+   left: 840px;
+   gap: 0px;
+   border-radius: 25px;
+   opacity: 0px;
+   background-image: url(images/flat.png);
+   background-position: 30px 30px;
+   background-size: 45px 45px;
+   background-repeat: no-repeat;
+}
