@@ -11,6 +11,7 @@
    text-align:center;
 }
 body{
+   width: 1280px;
    background-image: url(images/background1.png);
    background-size: 1280px 832px;
    background-color: black;
