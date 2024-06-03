@@ -1,8 +1,12 @@
 #maintext{
    text-align:center;
+   width: 835px;
+   height: 409px;
    position: absolute;
-   right: 540px;
-   bottom:350px;
+   top: 212px;
+   left:223px;
+   font-size: 128px;
+   font-style: Adamima;
 }
 #topright1 {
       width: 141px;
@@ -36,6 +40,9 @@
    background-color: #000000;
    color:white;
 }
-body{
-
+.background{
+   background-image: url(background1.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
 }
