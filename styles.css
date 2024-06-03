@@ -6,6 +6,7 @@
    left:223px;
    font-size: 128px;
    font-style: Adamima;
+   font-weight: 400;
    color: white;
    line-height: 135px;
    text-align:center;
@@ -16,7 +17,7 @@ body{
    background-size: 1280px 832px;
    background-color: black;
    background-repeat: no-repeat;
-      }
+}
 #topright1 {
       width: 141px;
       height: 50px;
@@ -75,7 +76,7 @@ color: white;
    color: white;
 
 }
-/*#circle{
+/*.circle{
    width: 40px;
    height: 40px;
    top: 881px;
@@ -84,3 +85,26 @@ color: white;
    border-radius: 25px;
    color: white;
 }
+*/
+.line{
+   width: 507px;
+   height: 1px;
+   top: 901px;
+   left: 693px;
+   gap: 0px;
+   opacity: 0px;
+   color: white;
+}
+/* #text2{
+width: 147px;
+height: 29px;
+top: 85px;
+left: 30px;
+font-family: Blinker;
+font-size: 24px;
+font-weight: 400;
+line-height: 28.8px;
+text-align: left;
+color: white;
+}
+*/
