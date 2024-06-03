@@ -1,30 +1,41 @@
 #maintext{
    text-align:center;
+   position: absolute;
+   right: 540px;
+   bottom:350px;
 }
 #topright1 {
+      width: 141px;
+      height: 50px;
      position: absolute;
-     top: 0;
-     right: 140px;
+     top: 60px;
+     right: 456px;
+     border-radius: 25px;
+     background-color: white;
 }
 #topright2 {
+   width: 141px;
+   height: 50px;
    position: absolute;
-   top: 0;
-   right : 80px;
+   top: 60px;
+   right : 313px;
+   border-radius: 25px;
+   border-color: white;
+   background-color: #000000;
+   color:white;
+
 }
 #topright3 {
+   width: 141px;
+   height: 50px;
    position: absolute;
-   top: 0;
-   right: 5px;
+   top: 60px;
+   right: 170px;
+   border-radius: 25px;
+   border-color: white;
+   background-color: #000000;
+   color:white;
 }
-head{
-   /* MacBook Air - 1 */
-
-position: absolute;
-width: 1280px;
-height: 832px;
-left: 0px;
-top: 0px;
-
-background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(.jpg);
+body{
 
 }
