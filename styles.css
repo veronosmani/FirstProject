@@ -4,17 +4,17 @@
 #topright1 {
      position: absolute;
      top: 0;
-     right: 25;
+     right: 25px;
 }
 #topright2 {
    position: absolute;
    top: 0;
-   left : 1;
+   right : 15px;
 }
 #topright3 {
    position: absolute;
    top: 0;
-   right: 0;
+   right: 5px;
 }
 head{
    /* MacBook Air - 1 */
