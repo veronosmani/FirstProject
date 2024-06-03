@@ -12,7 +12,7 @@
 }
 body{
    width: 1280px;
-   background-image: url(images/background1.png);
+   background-image: url(images/background1.jpg);
    background-size: 1280px 832px;
    background-color: black;
    background-repeat: no-repeat;
@@ -75,7 +75,7 @@ color: white;
    color: white;
 
 }
-#circle{
+/*#circle{
    width: 40px;
    height: 40px;
    top: 881px;
