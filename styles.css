@@ -86,9 +86,10 @@ body{
    color: white;
 }
 .line1{
+   position: absolute;
    width: 507px;
    height: 1px;
-   top: 901px;
+   top: -19px;
    left: 693px;
    gap: 0px;
    opacity: 0px;
@@ -497,13 +498,13 @@ body{
    color: white;
 }
 #line3{  
+   position: absolute;
    width: 930px;
    height: 1px;
    top: 1961px;
    left: 270px;
    gap: 0px;
    opacity: 0px;
-   position: absolute;
    color: white;
 }
 #text16{ 
