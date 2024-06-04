@@ -90,7 +90,7 @@ body{
    width: 507px;
    height: 1px;
    top: -19px;
-   left: 693px;
+   left: 300px;
    gap: 0px;
    opacity: 0px;
    color: white;
@@ -296,6 +296,16 @@ body{
    font-weight: 600;
    line-height: 28.8px;
    text-align: center;
+   color: white;
+}
+#line2{  
+   position: absolute;
+   width: 930px;
+   height: 1px;
+   top: 1961px;
+   left: 270px;
+   gap: 0px;
+   opacity: 0px;
    color: white;
 }
 .box4{
@@ -670,6 +680,16 @@ body{
    font-weight: 400;
    line-height: 24px;
    text-align: left;
+   color: white;
+}
+#line4{  
+   position: absolute;
+   width: 930px;
+   height: 1px;
+   top: 1961px;
+   left: 270px;
+   gap: 0px;
+   opacity: 0px;
    color: white;
 }
 #bottom{ 
