@@ -76,8 +76,8 @@ color: white;
    position: absolute;
    width: 15px;
    height: 29px;
-   top: 886px;
-   left: 96px;
+   top: -19px;
+   left: 13px;
    font-family: Blinker;
    font-size: 24px;
    font-weight: 600;
@@ -471,23 +471,22 @@ opacity: 0px;
    text-align: left;
    color: white;
 }
-#circle3{   
-   width: 40px;
-   background-image: url(images/Ellipse.png);
-   background-repeat: no-repeat;
-   background-size: auto;
+.circle3{   
    position: absolute;
+   width: 40px;
    height: 40px;
-   top: 1941px;
-   left: 80px;
-   gap: 0px;
+   top: 533px;
+   left: -390px;
+   background-image: url(images/Ellipse.png);
+   background-size: auto;
+   background-color: transparent;
 }
 #three{  
    position: absolute;
    width: 11px;
    height: 29px;
-   top: 512px;
-   right: 720px;
+   top: -19px;
+   left: 15px;
    gap: 0px;
    opacity: 0px;
    font-family: Blinker;
@@ -495,7 +494,7 @@ opacity: 0px;
    font-weight: 600;
    line-height: 28.8px;
    text-align: center;
-   color: #FFFFFF;
+   color: white;
 }
 #line3{  
    width: 930px;
