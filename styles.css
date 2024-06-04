@@ -603,6 +603,7 @@ body{
    color: white;
    background-color: black;
    border-color: white;
+   text-align: left;
 }
 #image{
    position: absolute;
