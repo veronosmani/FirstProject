@@ -84,7 +84,6 @@ color: white;
    line-height: 28.8px;
    text-align: center;
    color: white;
-   background-color: black;
 }
 .line1{
    width: 507px;
@@ -287,8 +286,8 @@ color: white;
    position: absolute;
    width: 11px;
    height: 29px;
-   top: 1326px;
-   left: 95px;
+   top: -19px;
+   left: 14px;
    gap: 0px;
    opacity: 0px;
    font-family: Blinker;
