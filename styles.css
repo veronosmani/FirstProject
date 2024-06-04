@@ -384,7 +384,7 @@ color: white;
    position: absolute;
    width: 263px;
    height: 68px;
-   top: 347px;
+   top: 355px;
    left: 20px;
    gap: 0px;
    opacity: 0px;
@@ -414,12 +414,11 @@ color: white;
    background-repeat: no-repeat;
    width: 358px;
    height: 500px;
-   top: 1391px;
-   left: 842px;
+   left: 380px;
 }
 #text13{ 
    position: absolute;
-   width: 318px;
+   width: 330px;
    height: 38px;
    top: 304px;
    left: 20px;
@@ -436,7 +435,7 @@ color: white;
    position: absolute;
    width: 267px;
    height: 68px;
-   top: 347px;
+   top: 355px;
    left: 20px;
    gap: 0px;
    opacity: 0px;
@@ -457,5 +456,230 @@ padding: 8px 25px 8px 25px;
 gap: 10px;
 border-radius: 25px;
 opacity: 0px;
-
+}
+#text15{ 
+   position: absolute;
+   width: 307px;
+   height: 76px;
+   top: 500px;
+   gap: 0px;
+   right: 393px;
+   opacity: 0px;
+   font-family: Blinker;
+   font-size: 32px;
+   font-weight: 700;
+   line-height: 38.4px;
+   text-align: left;
+   color: white;
+}
+#circle3{   
+   width: 40px;
+   position: absolute;
+   height: 40px;
+   top: 1941px;
+   left: 80px;
+   gap: 0px;
+   border: 1px 0px 0px 0px;
+   opacity: 0px;
+   border: 1px solid #FFFFFF;
+}
+#three{  
+   position: absolute;
+   width: 11px;
+   height: 29px;
+   top: 512px;
+   right: 720px;
+   gap: 0px;
+   opacity: 0px;
+   font-family: Blinker;
+   font-size: 24px;
+   font-weight: 600;
+   line-height: 28.8px;
+   text-align: center;
+   color: #FFFFFF;
+}
+#line3{  
+   width: 930px;
+height: 1px;
+top: 1961px;
+left: 270px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+color: white;
+}
+#text16{ 
+   position: absolute;
+   width: 340px;
+   height: 76px;
+   top: 571px;
+   right: 390px;
+   gap: 0px;
+   opacity: 0px;
+   font-family: Blinker;
+   font-size: 32px;
+   font-weight: 700;
+   line-height: 38.4px;
+   text-align: left;
+   color: white;
+}
+#text17{ 
+   position: absolute;
+   width: 523px;
+   height: 44px;
+   top: 675px;
+   right: 208px;
+   gap: 0px;
+   opacity: 0px;
+   font-family: Blinker;
+   font-size: 15px;
+   font-weight: 400;
+   line-height: 21.6px;
+   text-align: left;
+   color: white;
+}
+#Fname{  
+   position: absolute;
+   width: 247px;
+   height: 50px;
+   top: 780px;
+   right: 475px;
+   gap: 0px;
+   opacity: 0px;
+   background-color: black;
+   border-color: white;
+   color: white;
+}
+#Lname{  
+   width: 247px;
+   height: 50px;
+   top: 780px;
+   right: 199px;
+   opacity: 0px;
+   position: absolute;
+   color: white;
+   background-color: black;
+   border-color: white;
+}
+#Email{  
+   width: 247px;
+   height: 50px;
+   top: 860px;
+   right: 475px;
+   gap: 0px;
+   opacity: 0px;
+   position: absolute;
+   color: white;
+   background-color: black;
+   border-color: white;
+}
+#Phone{  
+   position: absolute;
+   width: 247px;
+   height: 50px;
+   top: 860px;
+   right: 199px;
+   color: white;
+   background-color: black;
+   border-color: white;
+}
+#Description{  
+   position: absolute;
+   width: 523px;
+height: 150px;
+top: 940px;
+right: 199px;
+gap: 0px;
+opacity: 0px;
+color: white;
+background-color: black;
+border-color: white;
+}
+#image{
+   position: absolute;
+   background-image: url(images/last.png);
+   background-repeat: no-repeat;
+   background-size: 600px 475px;
+   width: 600px;
+   height: 475px;
+   top: 700px;
+   left: 200px;
+   gap: 0px;
+   opacity: 0px;
+}
+#About{  
+   position: absolute;
+   width: 52px;
+   height: 24px;
+   top: 1182px;
+   right: 670px;
+   gap: 0px;
+   opacity: 0px;
+   color: white;
+   background-color: black;
+   border-color: black;
+   font-family: Blinker;
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 24px;
+   text-align: left;
+}
+#Portfolio{ 
+   position: absolute;
+   width: 74px;
+height: 24px;
+top: 1182px;
+right: 550px;
+gap: 0px;
+opacity: 0px;
+color: white;
+background-color: black;
+border-color: black;
+font-family: Blinker;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+}
+#Footprint{ 
+   position: absolute;
+   width: 80px;
+height: 24px;
+top: 1182px;
+right: 430px;
+gap: 0px;
+opacity: 0px;
+font-family: Blinker;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+background-color: black;
+color: white;
+border-color: black;
+}
+#text18{ 
+   position: absolute;
+   width: 312px;
+height: 24px;
+top: 1182px;
+left: 480px;
+gap: 0px;
+opacity: 0px;
+font-family: Blinker;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: white;
+}
+#bottom{ 
+   position: absolute;
+   background-image: url(images/finallogo.png);
+   background-repeat: no-repeat;
+   background-size: 55px 49px;
+   top: 1182px;
+   left: 200px;
+   width: 49px;
+   height: 55px;
 }
