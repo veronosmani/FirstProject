@@ -62,9 +62,19 @@ font-weight: 400;
 line-height: 38.4px;
 color: white;
 }
+.circle1{
+   position: absolute;
+   width: 40px;
+   height: 40px;
+   top: 900px;
+   left: 80px;
+   background-image: url(images/Ellipse.png);
+   background-size: auto;
+   background-color: transparent;
+}
 #one{
    position: absolute;
-   width: 9px;
+   width: 15px;
    height: 29px;
    top: 886px;
    left: 96px;
@@ -74,18 +84,8 @@ color: white;
    line-height: 28.8px;
    text-align: center;
    color: white;
-
+   background-color: black;
 }
-/*.circle1{
-   width: 40px;
-   height: 40px;
-   top: 881px;
-   left: 80px;
-   border: 1px;
-   border-radius: 25px;
-   color: white;
-}
-*/
 .line1{
    width: 507px;
    height: 1px;
@@ -261,7 +261,7 @@ color: white;
    position: absolute;
    width: 84px;
    height: 38px;
-   top: 1315px;
+   top: 1300px;
    left: 131px;
    gap: 0px;
    opacity: 0px;
@@ -272,17 +272,17 @@ color: white;
    text-align: left;
    color: white;
 }
-/*.circle2{ 
+.circle2{ 
    position:absolute;
+   background-image: url(images/Ellipse.png);
+   background-repeat: no-repeat;
+   background-size: auto;
    width: 40px;
    height: 40px;
-   top: 1321px;
+   top: 1330px;
    left: 80px;
    gap: 0px;
-   border: 1px;
-   opacity: 0px;
-   color: white;
-} */
+ }
 #two{ 
    position: absolute;
    width: 11px;
@@ -474,14 +474,14 @@ opacity: 0px;
 }
 #circle3{   
    width: 40px;
+   background-image: url(images/Ellipse.png);
+   background-repeat: no-repeat;
+   background-size: auto;
    position: absolute;
    height: 40px;
    top: 1941px;
    left: 80px;
    gap: 0px;
-   border: 1px 0px 0px 0px;
-   opacity: 0px;
-   border: 1px solid #FFFFFF;
 }
 #three{  
    position: absolute;
