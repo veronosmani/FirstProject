@@ -371,7 +371,6 @@ body{
    left: 461px;
    gap: 0px;
    opacity: 0px;
-   
 }
 #text11{ 
    position: absolute;
@@ -386,9 +385,7 @@ body{
    font-weight: 400;
    line-height: 38.4px;
    text-align: left;
-   
-   color: white;
-   
+   color: white;   
 }
 #text12{ 
    position: absolute;
